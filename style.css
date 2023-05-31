@@ -484,7 +484,7 @@ body {
     display: flex;
     position: relative;
     gap: 30px;
-    padding-left: 16%
+    padding-left: 16%;
   }
 
   .navbar li {
