@@ -20,22 +20,23 @@
     </nav> 
 
     <section class="top-page">
-        <div class="ham">
-            <img id="hamb" src="./images/ham.png" alt="hamburger menu">
-        </div>
-     <div class="nav-logo">
-        <img id src="./images/logo.png">
-       <div class="navbar">
-            <ul class="navbar-links">
-                <li><a href="#">About</a></li>
-                <li><a href="#">Program</a></li>
-                <li><a href="#">Join</a></li>
-                <li><a href="#">Sponser</a></li>
-                <li><a href="#">News</a></li>
-                <li id="last"><a href="#">WEC Campaign</a></li>
-            </ul>
-        </div>  
-     </div>
+        <nav class="navbar">
+            <div class="ham">
+                <img id="hamb" class="hamb" class="cross" src="./images/ham.png" alt="hamburger menu">
+            </div>
+         <div class="nav-logo">
+            <img id src="./images/logo.png">
+         </div>
+                <ul class="navbar-links" class="show">
+                    <img class="cross" src="./images/cross.png">
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="index.html">Program</a></li>
+                    <li><a href="index.html">Join</a></li>
+                    <li><a href="index.html">Sponser</a></li>
+                    <li><a href="index.html">News</a></li>
+                    <li id="last"><a href="index.html">WEC Campaign</a></li>
+                </ul>
+            </nav>  
 
         <div class="text">
             <h3 id="hello">"Hello! World"</h3>
@@ -85,7 +86,7 @@
    <section class="speakers">
     <h2>Featured Speakers</h2>
     <hr>
-   <div class="speaker-s">
+   <div class="featured">
    </div> 
    <button id="show-more">MORE <img src="./images/expand.png" alt=""></button>
    </section>
@@ -108,5 +109,6 @@
 </section>
     
    <script src="script.js"></script>
+   <script src="ham.js"></script>
 </body>
 </html>
