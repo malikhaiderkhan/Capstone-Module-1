@@ -55,7 +55,7 @@
 
 > Below is a link to my deployed project.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://malikhaiderkhan.github.io/Capstone-Module-1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
