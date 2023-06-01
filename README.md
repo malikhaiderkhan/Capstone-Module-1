@@ -55,7 +55,7 @@
 
 > Below is a link to my deployed project.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://malikhaiderkhan.github.io/Capstone-Module-1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +138,7 @@ If you like this project you can follow my work through my social networks
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse, my Learning partner and Standup Team for supporting me.
+I would like to thank Cindy Shin the author of the original design, Microverse, my Learning partner and Standup Team for supporting me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
