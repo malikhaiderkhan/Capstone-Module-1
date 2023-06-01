@@ -88,7 +88,7 @@ body {
   justify-content: center;
 }
 
-.program > h3 {
+.program > h1 {
   font-size: 20px;
   font-weight: 400;
   line-height: 28px;
@@ -231,6 +231,26 @@ body {
   letter-spacing: 1px;
 }
 
+.card .card1:hover {
+  transform: scale(1.1);
+  border: 3px solid #fff;
+}
+
+.card .card2:hover {
+  transform: scale(1.1);
+  border: 3px solid #fff;
+}
+
+.card .card3:hover {
+  transform: scale(1.1);
+  border: 3px solid #fff;
+}
+
+.card .card4:hover {
+  transform: scale(1.1);
+  border: 3px solid #fff;
+}
+
 .program button {
   display: flex;
   align-items: center;
@@ -261,7 +281,7 @@ body {
   position: relative;
 }
 
-.speakers h2 {
+.speakers h1 {
   display: flex;
   justify-content: center;
   font-weight: 400;
@@ -275,6 +295,11 @@ body {
   align-items: center;
   gap: 20px;
   margin: 8px;
+  background-image: url('./images/chessboard.png');
+  background-repeat: no-repeat;
+  background-position: top left;
+  padding-left: 15px;
+  background-size: 12%;
 }
 
 .speakers img {
@@ -790,6 +815,11 @@ body {
   padding-bottom: 40px;
 }
 
+.about-2 h1 {
+  text-align: center;
+  padding-top: 35px;
+}
+
 .about-2 h2 {
   text-align: center;
   padding-top: 35px;
@@ -890,11 +920,11 @@ body {
   margin-top: 20px;
 }
 
-.about-2 #img1 h1 {
+.about-2 #img1 h3 {
   margin-bottom: 10px;
 }
 
-.about-2 #img2 h1 {
+.about-2 #img2 h3 {
   margin-bottom: 10px;
 }
 
@@ -906,7 +936,7 @@ body {
     padding-bottom: 40px;
   }
 
-  .about-3 h2 {
+  .about-3 h1 {
     color: #fff;
     text-align: center;
     padding-top: 30px;
